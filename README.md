@@ -7,7 +7,7 @@ e.g. with Seeed XIAO ESP32-S3.
 
 ```yaml
 external_components:
-  - source: github://uspike/esphome-components
+  - source: github://NEEDsomeEXPLIOTS/ultrasonic-grove
     components: [grove_ultrasonic]
 
 esp32:
